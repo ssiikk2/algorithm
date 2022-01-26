@@ -5,5 +5,5 @@
 
 그리디 알고리즘은 현재 상황에서 가장 좋은 결과를 선택해나가는 방식입니다. 하지만 이 가장 좋은 결과는 최종적인 결과 도출에 대한 최적해를 보장해주는 것은 아닙니다!
 
-(https://user-images.githubusercontent.com/97833006/151116187-67512f52-093f-43ab-8e30-c5590e748f12.png)
+![greedy](https://user-images.githubusercontent.com/97833006/151116187-67512f52-093f-43ab-8e30-c5590e748f12.png)
 
