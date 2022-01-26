@@ -59,7 +59,7 @@ ex) 거스름돈 문제
 
 조건으로는 시작 시간과 끝나는 시간이 같은 경우, 그것도 하나의 수업으로 쳐줍니다.(3 3, 5 5 등)
 또 수업이 끝나고 바로 다른 수업을 시작할 수 있습니다. (1 3, 3 5, 5 7)
-![hwaldong](https://media.vlpt.us/images/contea95/post/b0c32292-5ecd-49cc-bd68-a87d67739396/%ED%99%9C%EB%8F%99%EC%84%A0%ED%83%9D%EB%AC%B8%EC%A0%9C1.png)
+#### ![hwaldong](https://media.vlpt.us/images/contea95/post/b0c32292-5ecd-49cc-bd68-a87d67739396/%ED%99%9C%EB%8F%99%EC%84%A0%ED%83%9D%EB%AC%B8%EC%A0%9C1.png)
 
  
 
